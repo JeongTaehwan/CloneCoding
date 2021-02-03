@@ -1,0 +1,13 @@
+.header{
+    height: 45px;
+    background-color: #1a1a1a;
+}
+
+.red-header{
+    height: 65px;
+    background-color: rgb(187, 12, 12);
+}
+
+.list{
+    color: white;
+}
