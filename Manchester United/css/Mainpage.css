@@ -7,3 +7,9 @@
     height: 65px;
     background-color: rgb(187, 12, 12);
 }
+
+.menu{
+    position: relative;
+    left: 100px;
+    top: -80px;
+}
